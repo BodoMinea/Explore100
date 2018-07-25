@@ -1,0 +1,23 @@
+{
+  "name": "roexplore-100",
+  "version": "1.0.0",
+  "description": "Explore Romania's iconic places with this dashboard app and companion device - you'll get reward points!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Explore",
+    "Travel",
+    "Centenar",
+    "Romania100",
+    "BonusPoints"
+  ],
+  "author": "Minea Claudiu Bogdan / bodominea@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.8.2",
+    "express": "^4.16.2",
+    "socketio": "^1.0.0"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "name": "Galeria de Artă Tradiţională din Sighişoara",
+      "lat": 46.220155,
+      "long": 24.7926850,
+      "desc": "> Art&Crafts este o galerie locală de artă cu produse sută la sută realizate manual. Sunt două locaţii importante: Galeria 1 este situată la subsolul House of the Rock, în piaţa principală a oraşului, iar Galeria 2 este într-una din cele mai importante clădiri din Sighişoara, Casa lui Vlad Dracul."
+    },
+    {
+      "id": 2,
+      "name": "Cetatea Alba Iulia",
+      "lat": 46.0686130,
+      "long": 23.5716640,
+      "desc": "> Niciun alt oraş din Transilvania nu a adunat la un loc atâtea momente cruciale şi simboluri. Cu mii şi mii de ani de istorie, Alba Iulia reprezintă o oglindă fermecătoare în care fiecare dintre grupurile etnice din Transilvania îşi pot descoperi vigoarea şi tradiţiile de altădată. Inima oraşului o reprezintă cetatea Alba Carolina, cea mai reprezentativă fortăreaţă bastion din România şi sud-estul Europei, precizează portalul."
+    },
+    {
+      "id": 3,
+      "name": "Castelul Peleş",
+      "lat": 45.3599820,
+      "long": 25.5426420,
+      "desc": "> Acest castel, care datează din secolul XIX, a fost construit de regele Carol I şi este considerat unul din cele mai frumoase castele ale Europei, scrie tripadvisor.ro."
+    },
+    {
+      "id": 4,
+      "name": "Piaţa Mare din Sibiu",
+      "lat": 45.7966620,
+      "long": 24.1517980,
+      "desc": "> Piaţa Mare se află în centrul istoric al Sibiului, unde sunt de asemenea monumente istorice importante, multe dintre ele parte din patrimoniul UNESCO."
+    },
+    {
+      "id": 5,
+      "name": "Mănăstirea Suceviţa",
+      "lat": 47.7783480,
+      "long": 25.7118210,
+      "desc": "> Mănăstirea pictată datând din secolul XVI se mândreşte cu mii de imagini pictate pe un fundal în nuanţe de verde, se arată pe acelaşi site."
+    },
+    {
+      "id": 6,
+      "name": "Delta Dunării",
+      "lat": 45.2027900,
+      "long": 29.3432330,
+      "desc": "> O suprafaţă vastă, cu locaţii excelente de unde poţi admira păsările. Canale de apă, lagune, stuf, fără drumuri, poduri sau maşini. Folosiţi o barcă închiriată ca să ajungeţi în cele mai frumoase locuri, este sfatul unui dintre utilizatorii portalului."
+    },
+    {
+      "id": 7,
+      "name": "Mânăstirea Voroneţ",
+      "lat": 47.5170720,
+      "long": 25.8641670,
+      "desc": "> Această mânăstire pictată, locuită de măicuţe, este adesea denumită capela Sixtină a Estului, potrivit sursei citate."
+    },
+    {
+      "id": 8,
+      "name": "Colecţia de maşini Ţiriac",
+      "lat": 44.5621610,
+      "long": 26.0694560,
+      "desc": "> O colecţie unică de maşini din 1899 şi până în 2014 şi în continuă actualizare, se arată pe acelaşi site."
+    },
+    {
+      "id": 9,
+      "name": "Piaţa Sfatului din Braşov",
+      "lat": 45.6421610,
+      "long": 25.5890950,
+      "desc": "> Un loc minunat de vizitat, străzi şi magazine frumoase, plăcut pentru hoinăreală, stat în cafenele. Puteţi cumpăra covrigi şi să mâncaţi prăjituri excelente cum e cremşnitul cu vanilie sau profiterolul cu ciocolată la una din patiseriile de pe stradă în loc să faceţi cumpărături, a scris un internaut."
+    },
+    {
+      "id": 10,
+      "name": "Salina Turda",
+      "lat": 46.5877460,
+      "long": 23.7872650,
+      "desc": "> O experienţă cam friguroasă, dar foarte frumoasă. Dacă ajungeţi acolo luaţi-vă haine mai groase la voi, pentru că se află la adâncime destul de mare. Se pot practica diverse activităţi, este un loc potrivit pentru familiile cu copii, recomandă portalul."
+    },
+    {
+      "id": 11,
+      "name": "Castelul Corvinilor ",
+      "lat": 45.7493190,
+      "long": 22.8882770,
+      "desc": "> Dacă vrei să ştii cum a fost un castel în diferite momente ale istoriei, ăsta e cel mai bun loc în care să vezi aceste lucruri. Este un castel adevărat unde poţi vizita fiecare loc din interior şi unde sunt explicaţii perfecte pentru fiecare dintre obiective. Dacă ai ocazia să vii aici, ar trebui să o faci, mai recomandă un alt utilizator al site-ului."
+    }
+  ],
+  "users": [ { "id":1001, "name": "Bogdan", "points": 23, "visited": [ 10,6,4,7 ]  } ]
+}
